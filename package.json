@@ -1,6 +1,6 @@
 {
   "name": "FetchQuery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module adding features to the `useFetch` composable",
   "repository": "ElisePatrikainen/Nuxt_useFetchQuery",
   "license": "MIT",
