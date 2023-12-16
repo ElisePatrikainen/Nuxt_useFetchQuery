@@ -1,6 +1,6 @@
 {
   "name": "test-nuxt-module-pkn",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A module adding features to the `useFetch` composable",
   "repository": "ElisePatrikainen/Nuxt_useFetchQuery",
   "license": "MIT",
