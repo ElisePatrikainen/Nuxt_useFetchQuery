@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.4
+
+[compare changes](https://github.com/ElisePatrikainen/Nuxt_useFetchQuery/compare/v1.0.3...v1.0.4)
+
+### 🩹 Fixes
+
+- Package name ([d098d4f](https://github.com/ElisePatrikainen/Nuxt_useFetchQuery/commit/d098d4f))
+
+### ❤️ Contributors
+
+- ElisePatrikainen <elise.patrikainen@gmail.com>
+
 ## v1.0.3
 
 [compare changes](https://github.com/ElisePatrikainen/Nuxt_useFetchQuery/compare/v1.0.2...v1.0.3)
