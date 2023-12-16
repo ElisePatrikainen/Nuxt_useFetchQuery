@@ -1,5 +1,5 @@
 {
-  "name": "FetchQuery",
+  "name": "NuxtUseFetchQuery",
   "version": "1.0.2",
   "description": "A module adding features to the `useFetch` composable",
   "repository": "ElisePatrikainen/Nuxt_useFetchQuery",
