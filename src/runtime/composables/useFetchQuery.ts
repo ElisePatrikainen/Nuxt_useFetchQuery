@@ -1,5 +1,3 @@
-function useFetchQuery() {
+export function useFetchQuery() {
     console.log('useFetchQuery');
 }
-
-export default useFetchQuery;
